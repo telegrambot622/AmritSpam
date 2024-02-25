@@ -13,7 +13,7 @@ else:
 hl = config.CMD_HNDLR
 
 
-DEADLY = "✯ 𝗞𝗜𝗡𝗚 𝗫 𝗧𝗘𝗔𝗠 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 ✯\n\n"
+DEADLY = "✯ ˹αмяιт ꭙ яαנ˼ 🫧 ✯\n\n"
 DEADLY += f"═══════════════════\n"
 DEADLY += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `4.0.0`\n"
 DEADLY += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
