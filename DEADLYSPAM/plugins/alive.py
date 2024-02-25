@@ -8,7 +8,7 @@ PIC = config.ALIVE_PIC
 if config.ALIVE_PIC:
     DEADLY_PIC = PIC
 else:
-    DEADLY_PIC = "https://te.legra.ph/file/2e2f78610814092d61103.jpg"
+    DEADLY_PIC = "https://telegra.ph/file/cb1437ccb4b8323270a3e.jpg"
 
 hl = config.CMD_HNDLR
 
