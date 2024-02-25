@@ -7,7 +7,7 @@ from datetime import datetime
  
 hl = config.CMD_HNDLR
  
-HELP_PIC = "https://te.legra.ph/file/2e2f78610814092d61103.jpg"
+HELP_PIC = "https://telegra.ph/file/ffc75c50e5e77e2c68aea.jpg"
 
 DEAD_HELP = "🔥 ᴋɪɴɢ x ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ🔥\n\n"
  
@@ -27,11 +27,11 @@ DEAD_HELP += f" `!raid` - to raid\n `!replyraid` - to active reply raid\n `!drep
 
 DEAD_HELP += f" !pornspam - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ😂 ↧\n\n"
 
-DEAD_HELP += f"© @BRANDED_WORLD\n"
+DEAD_HELP += f"© @FRIENDSGROUPALLINDIA\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern='/help'))
 async def help(event):               
     if event.sender_id in SUDOERS:
-       blaze = [[Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/BRANDED_KHUSHI"), Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/BRANDED_WORLD")]]
+       blaze = [[Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Emotional_Feelings_Channel"), Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/FRIENDSGROUPALLINDIA")]]
        await BOT0.send_file(event.chat_id, HELP_PIC, caption=DEAD_HELP, buttons=blaze) 
