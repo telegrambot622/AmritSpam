@@ -33,5 +33,5 @@ DEAD_HELP += f"© @FRIENDSGROUPALLINDIA\n"
 @BOT0.on(events.NewMessage(incoming=True, pattern='/help'))
 async def help(event):               
     if event.sender_id in SUDOERS:
-       blaze = [[Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Emotional_Feelings_Channel"), Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/FRIENDSGROUPALLINDIA")]]
+       blaze = [[Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Emotional_Feelings_Channel"), Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/under_world_here")]]
        await BOT0.send_file(event.chat_id, HELP_PIC, caption=DEAD_HELP, buttons=blaze) 
