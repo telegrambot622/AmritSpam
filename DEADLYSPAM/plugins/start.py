@@ -23,7 +23,7 @@ OWNER_ID = config.OWNER_ID
 Deadly_Button = [
         [
         Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Emotional_Feelings_Channel"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/FRIENDSGROUPALLINDIA")
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/under_world_here")
         ],
         [
         Button.url("• Rᴇᴘᴏ •", "https://t.me/yoursfeelings0306")
