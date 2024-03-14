@@ -10,7 +10,7 @@ ALIVE_IMG = config.ALIVE_PIC
 if config.ALIVE_PIC:
     DEADLY_IMG = ALIVE_IMG
 else:
-    DEADLY_IMG = "https://te.legra.ph/file/2e2f78610814092d61103.jpg"
+    DEADLY_IMG = "https://telegra.ph/file/54c872b02cd27f0f23df1.jpg"
 
 OWNER_INFO = config.OWNER_NAME
 if config.OWNER_NAME:
@@ -23,7 +23,7 @@ OWNER_ID = config.OWNER_ID
 Deadly_Button = [
         [
         Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Emotional_Feelings_Channel"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/under_world_here")
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/FRIENDSGROUPALLINDIA")
         ],
         [
         Button.url("• Rᴇᴘᴏ •", "https://t.me/yoursfeelings0306")
@@ -50,7 +50,7 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[『˹αмяιт』| ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ 𝗞𝗜𝗡𝗚𓄂⃝🔱 𝗕 ❤️ 𝗪](tg://user?id={6552389144})"
+        creator = f"[『˹αмяιт』| ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ 𝗞𝗜𝗡𝗚𓄂⃝🔱 𝗕 ❤️ 𝗪](tg://user?id={6539801772})"
         DEADLY_ON = f"""
 ʜᴇʏ {mention},
 ᴛʜɪs ɪs ᴋɪɴɢ x ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
