@@ -2,7 +2,7 @@
 {
     "name": "KING-𝚂𝙿𝙰𝙼-𝙱𝙾𝚃",
     "description": "MOST POWERFUL + STABLE SPAMBOTS",
-    "logo": "https://telegra.ph/file/83a991045a98546f4d048.jpg",
+    "logo": "https://telegra.ph/file/7c7c149076b61a7fe29a6.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -12,7 +12,7 @@
     ],
     "repository": "https://github.com/telegrambot622/AmritSpam",
     "website": "https://t.me/Emotional_Feelings_Channel",
-    "success_url": "https://t.me/under_world_here",
+    "success_url": "https://t.me/FRIENDSGROUPALLINDIA",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
