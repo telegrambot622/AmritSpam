@@ -16,17 +16,17 @@
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "26319490",
+        "value": "23378380",
         "required": true
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
+        "value": "https://telegra.ph/file/7cd85c117e3fc21af04d0.jpg",
         "required": false
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "e99518c312bd6fcb3e8643bf55e3a339",
+        "value": "5ddcf1df1360fe446b06dd94bd3ad0c6",
         "required": true
       },
      "CMD_HNDLR": {
